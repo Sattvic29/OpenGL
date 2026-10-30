@@ -1,0 +1,13 @@
+# Object and executable files
+*.obj
+*.exe
+*.built.bat
+*.Log.txt
+
+# Visual Studio generated files
+*.OGL.h
+*.OGL.rc
+*.OGL.res
+*.star.ico
+
+# Keep screenshots, videos and documentation

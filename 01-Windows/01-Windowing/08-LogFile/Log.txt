@@ -1,2 +1,0 @@
-Program Started Succesfully!!!
-Program Terminated Succesfully!!!
